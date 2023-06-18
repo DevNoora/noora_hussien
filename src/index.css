@@ -1,13 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Almarai:wght@300;400&family=Geologica:wght@300;400&family=Marcellus&family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,800;1,100&display=swap");
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: "Almarai", sans-serif;
+  font-family: "Geologica", sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0));
 }
